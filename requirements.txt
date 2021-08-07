@@ -1,0 +1,8 @@
+matplotlib
+gensim
+spacy
+nltk
+pandas
+numpy
+pathlib
+tqdm
